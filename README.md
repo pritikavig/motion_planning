@@ -3,7 +3,7 @@
 Documentation is available as a pdf. 
 
 
-
+Examples of code running are available at http://www.cs.dartmouth.edu/~pritikav/datavis.html
 *Note on harder environments, code may take a minute or more to find path.
 This code assumes Java 8 and the ability to run java applications.*
 
