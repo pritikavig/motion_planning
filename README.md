@@ -1,8 +1,13 @@
 # motion planning methods 
 
+Documentation is available as a pdf. 
 
-*Note* on harder environments, code may take a minute or more to find path.
-This code assumes Java 8 and the ability to run java applications. 
+
+
+*Note on harder environments, code may take a minute or more to find path.
+This code assumes Java 8 and the ability to run java applications.*
+
+To run, be sure to include the environment maps on the toplevel of directory. 
 
 The problem set up in the driver is default to the PRM map. Other cases can be run by switching the following variables. 
 
